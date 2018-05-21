@@ -1,0 +1,10 @@
+
+//Paleta de colores
+https://material.io/guidelines/style/color.html#color-color-palette
+
+//Fuentes
+https://fonts.google.com/
+
+Se creó un archivo para las variables y otro para los extends con el fin de ordenar
+el proyecto y clasificar cada componente en función al tipo.
+
